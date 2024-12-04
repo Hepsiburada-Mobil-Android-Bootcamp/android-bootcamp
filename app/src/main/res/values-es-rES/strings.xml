@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">camp</string>
+    <string name="title_activity_questions">Actividad de preguntas</string>
+
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Previo</string>
+    <string name="hello_first_fragment">Hola primer fragmento</string>
+    <string name="hello_second_fragment">Hola segundo fragmento. Arg: %1$s</string>
+    <string name="content_description">Descripción del contenido</string>
+    <string name="song_name">Nombre de la cancion</string>
+    <string name="artists_name">Nombre de los artistas</string>
+    <string name="duration_time">Duración</string>
+    <string name="year">Año</string>
+    <string name="save">Ahorrar</string>
+    <string name="add_text">Añadir texto</string>
+    <string name="add_song">agregar canción</string>
+    <string name="delete_all">eliminar todos</string>
+    <string name="duration">%d:%d</string>
+    <string name="finish_exam">Finalizar examen</string>
+    <string name="phone_number">número de teléfono</string>
+    <string name="login">acceso</string>
+    <string name="phone_number_format">Debe tener el formato 532112233.</string>
+    <string name="sms_code_validation">el código sms debe tener 6 dígitos</string>
+    <string name="enter_sms_code">Ingrese el código sms</string>
+    <string name="verify">Verificar</string>
+    <string name="sign_in_with_gamecenter" tools:ignore="ExtraTranslation">iniciar sesión con Game Center</string>
+</resources>
